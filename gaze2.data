@@ -1,0 +1,5 @@
+classes= 1
+train  = C:\dataset\gaze_o\yolo_train.txt
+valid  = C:\dataset\gaze_o\yolo_vaild.txt
+names = C:\dataset\gaze\name.txt
+backup = models/gaze3_9

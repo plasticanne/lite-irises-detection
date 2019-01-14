@@ -1,0 +1,1 @@
+D:\winpython\darknet-Yolo_v3\build\darknet\x64\darknet.exe detector test gaze.data gaze6\gaze-tiny.cfg gaze6\gaze-tiny_final.weights -i 0 105_20.jpg

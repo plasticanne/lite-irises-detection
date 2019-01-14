@@ -1,0 +1,1 @@
+D:\winpython\darknet-Yolo_v3\build\darknet\x64\darknet.exe partial gaze-tiny.cfg yolov3-tiny.weights gaze-tiny.conv.15 15

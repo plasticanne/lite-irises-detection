@@ -1,0 +1,2 @@
+D:\winpython\darknet-Yolo_v3\build\darknet\x64\darknet.exe detector train gaze.data models/gaze3_8/gaze2-tiny.cfg models/gaze3_8/gaze-tiny_4_3000.weights -dont_show
+D:\winpython\darknet-Yolo_v3\build\darknet\x64\darknet.exe detector train gaze2.data models/gaze3_9/gaze2-tiny.cfg models/gaze3_9/gaze-tiny_4_3000.weights -dont_show

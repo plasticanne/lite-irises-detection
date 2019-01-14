@@ -1,0 +1,1 @@
+D:\winpython\darknet-Yolo_v3\build\darknet\x64\darknet.exe detector calc_anchors gaze.data -num_of_clusters 6 -width 24 -height 24
